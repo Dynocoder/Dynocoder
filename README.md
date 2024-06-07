@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/_sauravprashar" target="blank"><img src="https://img.shields.io/twitter/follow/_sauravprashar?logo=twitter&style=for-the-badge" alt="_sauravprashar" /></a> </p>
 
-- 🔭 I’m currently working on [Lab Controller](https://github.com/Dynocoder/lab-controller)
+// - 🔭 I’m currently working on [Lab Controller](https://github.com/Dynocoder/lab-controller)
 
-- 🌱 I’m currently learning **FastAPI, React, AWS**
+- 🌱 I’m currently learning **Angular, Vue.js, GoLang**
 
 - 👨‍💻 All of my projects are available at [www.sauravprashar.com](www.sauravprashar.com)
 
-- 💬 Ask me about **Tkinter, flask.**
-
-- 📫 How to reach me **sauravprashar21@gmail.com**
+- 📫 Reach me at **sauravprashar21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
