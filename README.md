@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/_sauravprashar" target="blank"><img src="https://img.shields.io/twitter/follow/_sauravprashar?logo=twitter&style=for-the-badge" alt="_sauravprashar" /></a> </p>
 
-// - 🔭 I’m currently working on [Lab Controller](https://github.com/Dynocoder/lab-controller)
+// - 🔭 I’m currently working on [Remembering Their Faces](https://rememberingtheirfaces.ca/)
 
-- 🌱 I’m currently learning **Angular, Vue.js, GoLang**
+- 🌱 I work with ** React, Angular, Laravel**
 
-- 👨‍💻 All of my projects are available at [www.sauravprashar.com](www.sauravprashar.com)
+- 👨‍💻 Find my projects at [www.sauravprashar.com](www.sauravprashar.com)
 
 - 📫 Reach me at **sauravprashar21@gmail.com**
 
