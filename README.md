@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm a passionate software developer based in Canada<br><br>- 🔭 I’m working on <a href="https://rememberingtheirfaces.ca/"> Remembering Their Faces </a><br>- 📚 I'm currently learning Laravel and ML<br>- ⚡ In my free time I play CS and rant on my valorant friends.</p>
+<p align="left">I'm a passionate software developer<br>
 
 ###
 
